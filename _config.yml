@@ -11,10 +11,10 @@ title                    : "Sharib Ali / Site Title"
 title_separator          : "-"
 name                     : &name "Sharib Ali"
 description              : &description "Senior research associate at University of Oxford"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sharibox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sharib/academicpages.github.io"
-teaser                   : "profile.png"
+repository               : "sharibox/sharibox.github.io"
+teaser                   : ""
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sharib Ali, PhD"
-  avatar           : "images.png"
+  avatar           : "profile-2.png"
   bio              : "Senior Research Associate at University of Oxford"
   location         : "Location"
   employer         :
