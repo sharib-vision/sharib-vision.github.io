@@ -8,6 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I am a researcher in computational science and my research is mostly focused on medical and biomedical data. I have an extensive experience in building cutting edge computer vision technologies in object detection, semantic segmentation, image restoration, depth estimation, optical flow, image registration and 3D reconstruction. I have developed tools in these topics with both classical mathematical models and deep learning models.
+​
+I have worked as researcher in different capacities in leading research teams in France, Spain, Germany, Switzerland and the UK. I am currently a senior post-doctoral researcher at the University of Oxford. 
+​
+I am keen towards learning new technologies. I am open to meeting new people, establishing interesting collaborations (both academia and industry), mentoring students and new opportunities.
+​
+My current research involves building robust models for computer assisted endoscopy in gastroenterology, especially oesophagus and the colon. The project is a part of NIHR Oxford biomedical research centre imaging theme on Computer aided endoscopy.
+
+**Post-doctoral Researcher @dkfz.de**
+*2015 - 2018*
+​
+I joined Biomedical and Computer vision group in Heidelberg, Germany at DKFZ where I collaborated extensively with neuroscience researchers at Forschungszentrum, Jülich, Germany. I designed mathematically plausible solutions for 3D reconstruction of very high resolution (1.3mu) 2D histology brain images.
+
+**Research Associate @univ-lorraine.fr**
+*2012 - 2015*
+​
+I joined CRAN team at Nancy, France, where I was involved in the development of robust computer vision algorithms for monitoring bladder cancer progression by accurately creating mosaics of videos. The key element in this work was to enable computer to match reliable features based on frame motion and perform mosaicking of the surface under observation.
+
+
+
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -46,7 +66,7 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
-**Contact** <sharib[dot]ali[at]eng[dot]ox[dot]ac.uk>
+**Contact:** sharib[dot]ali [at] eng[dot]ox[dot]ac.uk 
 
 <!-- For more info
 ------
