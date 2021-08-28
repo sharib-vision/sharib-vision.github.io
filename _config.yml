@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sharib Ali / Site Title"
+title                    : "Sharib Ali / About me"
 title_separator          : "-"
 name                     : &name "Sharib Ali"
 description              : &description "Senior research associate at University of Oxford"
