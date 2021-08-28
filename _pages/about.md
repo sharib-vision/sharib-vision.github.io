@@ -8,24 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a researcher in computational science and my research is mostly focused on medical and biomedical data. I have an extensive experience in building cutting edge computer vision technologies in object detection, semantic segmentation, image restoration, depth estimation, optical flow, image registration and 3D reconstruction. I have developed tools in these topics with both classical mathematical models and deep learning models.
+Hi, 
+
+I am a computational scientist with a doctoral and Master's degree in computer vision and image analysis. My research is mostly focused on algorithm development for analysis and interpretation of medical and biomedical data. I have an extensive experience in building cutting edge computer vision technologies in object detection, semantic segmentation, image restoration, depth estimation, optical flow, image registration and 3D reconstruction. I have developed tools in these topics with both classical mathematical models and deep learning models.
+
 ​
-I have worked as researcher in different capacities in leading research teams in France, Spain, Germany, Switzerland and the UK. I am currently a senior post-doctoral researcher at the University of Oxford. 
-​
-I am keen towards learning new technologies. I am open to meeting new people, establishing interesting collaborations (both academia and industry), mentoring students and new opportunities.
-​
-My current research involves building robust models for computer assisted endoscopy in gastroenterology, especially oesophagus and the colon. The project is a part of NIHR Oxford biomedical research centre imaging theme on Computer aided endoscopy.
+I am currently a **senior post-doctoral researcher** at the [Department of Engineering Sciencee](https://eng.ox.ac.uk), [University of Oxford](https://www.ox.ac.uk). My current research involves around building robust models for computer assisted endoscopy in gastroenterology, especially the oesophagus and the colon. The project is a part of NIHR Oxford biomedical research centre imaging theme on Computer aided endoscopy for Barrett's oesophagus, a defined cancer precursor in the oesophagus for which I am collaborating with consultant gastroenterologists from the [Oxford University Hospitals](https://www.ouh.nhs.uk). At Oxford, I am also co-mentoring 2 DPhil students together with [Prof. Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher). Thanks to all colleagues at Oxford who has been always supportive. 
+
+I am also working on developing novel deep learning methods for polyp detection and segmentation on tackling issues such as generalisability, minature networks and networks capable of dealing with small size data. To accomplish this, I am collaborating with [Pål Halvorsen from the Simula Research Laboratory, Oslo, Norway](https://www.simula.no/people/paalh), and senior consultant [Thomas de Lange from Sahlgrenska University Hospital Gothenburg, Sweden](http://www.sahlgrenskaic.com/medical-care/sahlgrenska-university-hospital/). I am mentoring some students as part of this collaboration.
+
+I have worked as researcher in different capacities in leading research teams in France, Spain, Germany, Switzerland and the UK. I am initiator and lead organiser of series of endoscopic computer vision challenge that started in 2019 [follow-us here](https://twitter.com/cv_endo). I am very thankful to all the collaborators for believing in me and assisting me in data collection, curation, and participating in discussions for planning and execution. I am keen towards learning about new technologies and open to meeting new people, establishing interesting and innovative collaborations (both academia and industry), mentoring students and looking forward for new and exciting opportunities. 
 
 **Post-doctoral Researcher @dkfz.de**
 *2015 - 2018*
 ​
-I joined Biomedical and Computer vision group in Heidelberg, Germany at DKFZ where I collaborated extensively with neuroscience researchers at Forschungszentrum, Jülich, Germany. I designed mathematically plausible solutions for 3D reconstruction of very high resolution (1.3mu) 2D histology brain images.
+I joined [Biomedical and Computer vision group of Prof. Karl Rohr](http://www.bioquant.uni-heidelberg.de/index.php?id=322) at the [University of Heidelberg](https://www.uni-heidelberg.de/en) and [DKFZ](https://www.dkfz.de/en/index.html), Germany. During my work there I collaborated extensively with neuroscience researchers at Forschungszentrum, Jülich, Germany with [Prof. Katrin Amunts](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-1/EN/Amunts_Katrin.html) and [Markus Axer](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-1/EN/Axer_Markus.html?nn=534704). I designed mathematically plausible phyics-based deformable registraiton techinque that allowed for precise 3D reconstruction of very high resolution (1.3mu) 2D histology brain images from cutted 2D slices/sections ([more info here](https://www.sciencedirect.com/science/article/pii/S1053811918305913)).
 
-**Research Associate @univ-lorraine.fr**
+**Research Associate - Doctoral thesis @univ-lorraine.fr**
 *2012 - 2015*
 ​
-I joined CRAN team at Nancy, France, where I was involved in the development of robust computer vision algorithms for monitoring bladder cancer progression by accurately creating mosaics of videos. The key element in this work was to enable computer to match reliable features based on frame motion and perform mosaicking of the surface under observation.
-
+I obtained my PhD from the [University of Lorraine](https://welcome.univ-lorraine.fr/en/) supervised by [Prof Christian Daul](http://w3.cran.univ-lorraine.fr/christian.daul/?q=content/curriculum-vitae) and Prof. Walter Blondel from [CNRS - CRAN laboratory](http://www.cran.univ-lorraine.fr) at Nancy, France, where I was involved in the development of robust computer vision algorithms for monitoring bladder cancer progression by accurately creating mosaics of videos. The key element in this work was to enable computer to match reliable features based on frame motion and perform mosaicking of the surface under observation. ([Thesis here](https://tel.archives-ouvertes.fr/tel-01265099/))
 
 
 <!-- 
