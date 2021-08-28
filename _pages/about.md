@@ -19,7 +19,7 @@ I am also working on developing novel deep learning methods for polyp detection 
 
 I have worked as researcher in different capacities in leading research teams in France, Spain, Germany, Switzerland and the UK. I am initiator and lead organiser of series of endoscopic computer vision challenge that started in 2019 ([follow-us here](https://twitter.com/cv_endo)). I am very thankful to all the collaborators for believing in me and assisting me in data collection, curation, and participating in discussions for planning and execution. I am keen towards learning about new technologies and open to meeting new people, establishing interesting and innovative collaborations (both academia and industry), mentoring students and looking forward for new and exciting opportunities. 
 
-Thanks to all colleagues at Oxford who has been always supportive of me and helped me grow. I am very thankful and lucky to have also received constant support from many other researchers especially [Prof. Danial Stoyanov](https://www.ucl.ac.uk/surgical-robot-vision/people/danail-stoyanov), [Lena Maier-Hein](https://www.dkfz.de/en/cami/team/people/Lena_Maier-Hein.html) and [Adrien Bartoli](http://igt.ip.uca.fr/~ab/).
+Thanks to all colleagues at Oxford who have been always supportive of me and helped me grow. I am very thankful and lucky to have also received constant support from many other researchers especially [Prof. Danial Stoyanov](https://www.ucl.ac.uk/surgical-robot-vision/people/danail-stoyanov), [Lena Maier-Hein](https://www.dkfz.de/en/cami/team/people/Lena_Maier-Hein.html) and [Adrien Bartoli](http://igt.ip.uca.fr/~ab/).
 
  *“Tell me and I forget, teach me and I may remember, involve me and I learn.” – Benjamin Franklin*
 
