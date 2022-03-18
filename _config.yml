@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Sharib Ali / About me"
 title_separator          : "-"
 name                     : &name "Sharib Ali"
-description              : &description "Senior research associate at University of Oxford"
-url                      : https://sharibox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoctorall research associate at University of Oxford"
+url                      : https://sharib-vision.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sharibox/sharibox.github.io"
+repository               : "sharib-vision/sharib-vision.github.io"
 teaser                   : ""
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &sharib_ox
+  username               : &vision_sharib
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sharibox"
+  github           : "https://github.com/sharib-vision"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sharib_ox"
+  twitter          : "vision_sharib"
   vine             :
   weibo            :
   xing             :
