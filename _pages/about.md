@@ -76,7 +76,7 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
-**Contact:** sharib[dot]ali [at] eng[dot]ox[dot]ac.uk 
+**Contact:** ali[dot]sharib2002 [at] gmail[dot]com
 
 <!-- For more info
 ------
