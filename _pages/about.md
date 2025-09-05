@@ -14,6 +14,8 @@ Prior to joining University of Leeds as a lecturer (assistant professor), I work
 
 I have worked as researcher in different capacities in leading research teams in France, Spain, Germany, Switzerland and the UK. I am an initiator and lead organiser of series of endoscopic computer vision challenge that started in 2019 (follow-us here). Together with Prof. Adrien Bartoli and colleagues, I have intiatiated P2ILF challenge at the MICCAI 2022. I am also organising member of  a series of Workshop on Cancer Prevention, Detection and Intervention workshop at MICCAI. I am a founding member of NAAMII, Kathmandu, Nepal and holds a volunteering adjunct research scientist position to train selected students from LMIC listed countries (more info here). I have supervised several research interns and currently supervising/co-supervising PhD students on topics around artificial intelligence in medical and biomedical image analysis including 3D/2D vision-based automations and immersion technologies.
 
+This page is not updated regularly, instead please see: https://eps.leeds.ac.uk/computing/staff/11465/dr-sharib-ali
+
 **Contact:** ali[dot]sharib2002 [at] gmail[dot]com
 
 <!-- For more info
