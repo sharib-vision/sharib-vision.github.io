@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sharib Ali / About me"
 title_separator          : "-"
 name                     : &name "Sharib Ali"
-description              : &description "Lecturer/Assistant Professor at University of Oxford"
+description              : &description "Lecturer/Assistant Professor at University of Leeds"
 url                      : https://sharib-vision.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sharib-vision/sharib-vision.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sharib Ali, PhD"
   avatar           : "profile-2.png"
-  bio              : "Postdoctoral Research Associate at University of Oxford"
+  bio              : "Lecturer/Assistant Professor at University of Leeds"
   location         : "Location"
   employer         :
   pubmed           : 
