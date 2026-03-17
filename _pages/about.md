@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This page is not updated regularly, instead please see: (Profile page here)[https://eps.leeds.ac.uk/computing/staff/11465/dr-sharib-ali]
+This page is not updated regularly, instead please see: [Profile page here](https://eps.leeds.ac.uk/computing/staff/11465/dr-sharib-ali)
 
 
 I have over 15 years experience on working on various medical and biomedical data (mostly imaging) analysis. I have master’s degree by research in Computer Vision from University of Burgundy, France (2010-2012) with thesis on “Retinal image analysis from fundus imaging”, a collaborative project between Oak Ridge National Laboratory, USA and Le2I, Le Creusot at the University of Bourgogne. I obtained my PhD in image analysis (awarded in 01/2016) from the University of Lorraine from CNRS - CRAN laboratory at Nancy, France. I developed robust computer vision algorithms for monitoring bladder cancer progression by accurately creating mosaics from endoscopic videos. The key element in this work was to enable computer to match reliable features based on frame motion and perform mosaicking of the surface under observation (Thesis here).
